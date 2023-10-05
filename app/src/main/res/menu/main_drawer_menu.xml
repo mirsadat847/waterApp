@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <group android:checkableBehavior="single">
+
+    <item android:id="@+id/nav_orders"
+        android:icon="@drawable/ic_orders"
+        android:title="Orders"></item>
+
+    <item android:id="@+id/nav_customers"
+        android:icon="@drawable/ic_customers"
+        android:title="Customers"></item>
+
+    <item android:id="@+id/nav_riders"
+        android:icon="@drawable/ic_biker"
+        android:title="Riders"></item>
+
+     <item android:id="@+id/nav_brands"
+         android:icon="@drawable/ic_brands"
+         android:title="Brands"></item>
+
+     <item android:id="@+id/nav_Sales"
+         android:icon="@drawable/ic_sales"
+         android:title="Sales"></item>
+
+     <item android:id="@+id/nav_deals"
+         android:icon="@drawable/ic_deals"
+         android:title="Deals"></item>
+
+
+
+
+ </group>
+</menu>
